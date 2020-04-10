@@ -24,4 +24,4 @@ The GitWiser logo is a also a mix of 2 images:
 #
 ![GitWiser](resources/images/GitWiser-logo.png)
 
-GitWizer by @yorammi (yorammi@gmail.com)
+GitWiser by @yorammi (yorammi@gmail.com)

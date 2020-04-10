@@ -7,4 +7,4 @@
 #
 ![GitWiser](../../resources/images/GitWiser-logo.png)
 
-GitWizer by @yorammi (yorammi@gmail.com)
+GitWiser by @yorammi (yorammi@gmail.com)

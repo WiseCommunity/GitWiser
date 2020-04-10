@@ -26,4 +26,4 @@ Once your all setup to work, there are several entry-points where you can start:
 #
 ![GitWiser](resources/images/GitWiser-logo.png)
 
-GitWizer by @yorammi (yorammi@gmail.com)
+GitWiser by @yorammi (yorammi@gmail.com)
